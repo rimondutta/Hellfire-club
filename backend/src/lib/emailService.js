@@ -55,7 +55,7 @@ export const sendOTPEmail = async (email, otp) => {
       <p>This code expires in 10 minutes.</p>
     `;
     message.sender = {
-      name: "Chatty",
+      name: "Hell Fire Club",
       email: process.env.SENDER_EMAIL, // This MUST be a verified sender
     };
     message.to = [{ email: email }];
