@@ -14,7 +14,7 @@ const Footer = () => {
               <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center border border-blue-600/30">
                 <MessageSquare className="w-6 h-6 text-primary" />
               </div>
-              <span className="text-xl font-bold text-white">Chatty</span>
+              <span className="text-xl font-bold text-white">Dark World Chat</span>
             </div>
             <p className="text-gray-400 text-sm mb-4 max-w-md">
               Connect with friends and family through secure, real-time messaging. Share moments,
@@ -22,7 +22,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://github.com/Pritam-nitj"
+                href="https://github.com/rimondutta/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#2d3748] hover:bg-[#3d4758] flex items-center justify-center text-gray-400 hover:text-blue-500 transition-all duration-200"
@@ -30,7 +30,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://x.com/PritamK38448085"
+                href="https://x.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#2d3748] hover:bg-[#3d4758] flex items-center justify-center text-gray-400 hover:text-blue-500 transition-all duration-200"
@@ -38,7 +38,7 @@ const Footer = () => {
                 <Twitter className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/pritam-nitj/"
+                href="https://www.linkedin.com/in/rimon-dutta/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#2d3748] hover:bg-[#3d4758] flex items-center justify-center text-gray-400 hover:text-blue-500 transition-all duration-200"
@@ -46,7 +46,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:pritamk6284987295@gmail.com"
+                href="mailto:connect.rimondutta@gmail.com"
                 className="w-9 h-9 rounded-lg bg-[#2d3748] hover:bg-[#3d4758] flex items-center justify-center text-gray-400 hover:text-blue-500 transition-all duration-200"
               >
                 <Mail className="w-5 h-5" />
