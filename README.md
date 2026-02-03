@@ -27,7 +27,7 @@ Built for fast, secure, and smooth conversations with a dark-themed UI.
 
 ```bash
 git clone https://github.com/rimondutta/Hellfire-club.git
-cd hellfire-club-chat
+cd hellfire-club
 
 ```
 
@@ -89,3 +89,4 @@ Software Developer
 - 📍 Location: Chattogram, Bangladesh
 
 Feel free to reach out for collaboration, feedback, or feature suggestions.
+
