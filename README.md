@@ -82,11 +82,12 @@ EMAIL_PASSWORD=
 **Rimon Dutta**  
 Software Developer
 
-- 📧 Email: your-email@example.com
+- 📧 Email: info.rimondutta@gmail.com
 - 💼 GitHub: https://github.com/rimondutta
 - 🔗 LinkedIn: https://linkedin.com/in/rimon-dutta
 - 🌐 Portfolio: https://rimondutta.vercel.app
 - 📍 Location: Chattogram, Bangladesh
 
 Feel free to reach out for collaboration, feedback, or feature suggestions.
+
 
