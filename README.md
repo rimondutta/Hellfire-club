@@ -55,8 +55,6 @@ npx nodemon
 # env example
 
 ````bash
-
-```# MongoDB
 MONGODB_URI=
 PORT=
 NODE_ENV=
@@ -72,9 +70,6 @@ BREVO_API_KEY=
 
 EMAIL_USER=
 EMAIL_PASSWORD=
-
-
-
 ````
 
 ## 📬 Contact Information
